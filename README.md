@@ -29,7 +29,7 @@ Em razão da alta taxa de desistências, a administração decidiu oferecer **50
 
 ### 🧠 Decisões Técnicas
 
-- **Python 3.10+**
+- **Python 3.9+**
 - Uso de **Programação Orientada a Objetos (POO)** para encapsular regras de negócio.
 - Uso de **conjuntos (`set`)** para evitar duplicidade de nomes nas modalidades.
 - Armazenamento em **memória** (sem persistência em banco de dados ou arquivos).

@@ -86,7 +86,7 @@ Funções utilitárias:
 
 ## ▶️ Como Executar
 
-1. Certifique-se de ter o Python 3.10+ instalado.
+1. Certifique-se de ter o Python 3.9+ instalado.
 2. Clone ou baixe este repositório.
 3. Execute o sistema:
 

@@ -1,0 +1,18 @@
+Considere um Centro de Treinamento Esportivo que oferece cursos de Futebol, Natação, Vôlei e Basquete.
+Em função do grande número de desistência de seus alunos, a administração resolveu oferecer um
+desconto de 50% na segunda modalidade. Para isso eles precisarão verificar os alunos em comum
+(matriculados em mais de um esporte). Você foi contratado para desenvolver um sistema que faça essa
+verificação e retorne as seguintes informações:
+
+1. Mostre (imprimir na tela) a relação de alunos matriculados por modalidade: Futebol, Basquete,
+Natação e Vôlei.
+
+2. Permita que novos alunos possam ser matriculados em qualquer uma das modalidades.
+
+3. Faça a verificação se existem alunos matriculados em pelo menos 2 modalidades. E indique quais os
+alunos que possuem direito ao desconto.
+
+4. Indique o número total de alunos por modalidade, e também o número total de alunos do Centro de
+Treinamento.
+
+
